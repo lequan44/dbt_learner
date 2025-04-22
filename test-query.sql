@@ -1,1 +1,0 @@
-SELECT * FROM `peerless-clock-457603-h8.stock_data.securities`
