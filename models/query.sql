@@ -1,1 +1,1 @@
-SELECT * FROM `peerless-clock-457603-h8.stock_data.securities` LIMIT 1000
+SELECT * FROM `peerless-clock-457603-h8.stock_data.securities`
